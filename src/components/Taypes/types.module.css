@@ -1,0 +1,48 @@
+.balls {
+    width: 4em;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    margin-top:5px ;
+}
+
+.balls div {
+    width: 70px;
+    height: 5px;
+}
+
+.balls div:nth-of-type(1) {
+    transform: translateX(-100%);
+    animation: left-swing 0.4s ease-in alternate infinite;
+}
+
+.balls div:nth-of-type(3) {
+    transform: translateX(-95%);
+    animation: right-swing 0.4s ease-out alternate infinite;
+}
+
+@keyframes left-swing {
+
+    50%,
+    100% {
+        transform: translateX(95%);
+    }
+}
+
+@keyframes right-swing {
+    50% {
+        transform: translateX(-95%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+
+.TypesC{
+    padding: 3rem 0;
+
+}

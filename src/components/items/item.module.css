@@ -1,0 +1,66 @@
+.tiny {
+    width: 71px;
+    height: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.1px;
+    color: #B79F49;
+    text-transform: capitalize;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 2px;
+}
+
+.tiny:hover{
+    color: rgb(228, 211, 170);
+}
+
+
+
+.content {
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.price {
+
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.price s {
+    margin: 2px;
+    margin-right: 15px;
+}
+
+.btn {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn button {
+    width: 120px;
+    height: 30px;
+    background: #217A7E;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #dccc93;
+    border: none;
+}
+
+.btn button:hover {
+    background: #dccc93;
+    color: #217A7E;
+    border-radius: 25px;
+
+}

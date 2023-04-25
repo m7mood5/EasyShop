@@ -1,0 +1,79 @@
+.cbutton {
+    background-color: #152425;
+    color: #d4bb93;
+    border-radius: 7px;
+    box-shadow: 0 0 0 !important;
+    outline: 0 !important;
+    border: solid 2px #152425;
+    top: 0.2rem;
+    right: 0.2rem;
+    line-height: 2rem;
+    text-transform: capitalize;
+    transition: all ease-in-out 0.4s;
+    cursor: pointer;
+    margin: 2px;
+    width: 70px;
+    font-weight: 700;
+}
+
+.cbutton:hover {
+
+    background-color: #217A7E;
+    border: solid 2px #217A7E;
+    color: #d4bb93;
+    transition: all ease-in-out 0.4s;
+}
+
+.cart {
+    width: 85px;
+}
+
+.ctotal {
+    background-color: #217A7E;
+    color: #d4bb93;
+    box-shadow: 0 0 0 !important;
+    outline: 0 !important;
+    text-transform: capitalize;
+    transition: all ease-in-out 0.4s;
+    border-radius: 50%;
+
+}
+
+.ctotal .din {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.1px;
+    color: #B79F49;
+    text-transform: capitalize;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 2px;
+    top: 12px;
+}
+
+.total {
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 2px;
+    color: #217A7E;
+}
+
+.notefcation {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.1px;
+    color: #B79F49;
+    text-transform: capitalize;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 2px;
+    top: 12px;
+    background-color: #217A7E;
+}

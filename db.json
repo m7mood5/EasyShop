@@ -1,0 +1,180 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "women",
+      "price": "EGP 100",
+      "pris": "EGP 150",
+      "seal": "12%",
+      "max": 4,
+      "img": "1.png",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "men",
+      "price": "EGP 120",
+      "pris": "EGP 190",
+      "seal": " 15%",
+      "max": 4,
+      "img": "9.png",
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "men",
+      "max": 9,
+      "price": "EGP 120",
+      "pris": "EGP 250",
+      "seal": "20%",
+      "img": "2.png",
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "women",
+      "price": "EGP 120",
+      "pris": "EGP 1500",
+      "max": 1,
+      "seal": "70%",
+      "img": "8.png",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "men",
+      "price": "EGP 120",
+      "pris": "EGP 150",
+      "max": 14,
+      "img": "5.png",
+      "rating":5
+    },
+    {
+      "id": 6,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "men",
+      "price": "EGP 120",
+      "max": 2,
+      "seal": "9%",
+      "img": "6.png",
+      "rating":4
+    },
+    {
+      "id": 7,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "baby",
+      "price": "EGP 120",
+      "pris": "EGP 950",
+      "max": 2,
+      "seal": "70%",
+      "img": "7.png",
+      "rating":4
+    },
+    {
+      "id": 8,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "sport",
+      "price": "EGP 120",
+      "pris": "EGP 150",
+      "max": 8,
+      "img": "5.png",
+      "rating":4
+    },
+    {
+      "id": 9,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "kids",
+      "price": "EGP 120",
+      "pris": "EGP 150",
+      "max": 9,
+      "seal": "12%",
+      "img": "4.png",
+      "rating":1
+    },
+    {
+      "id": 10,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "women",
+      "price": "EGP 120",
+      "pris": "EGP 190",
+      "max": 10,
+      "seal": "20%",
+      "img": "3.png",
+      "rating":2
+    },
+    {
+      "id": 19,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "baby",
+      "price": "EGP 120",
+      "pris": "EGP 650",
+      "max": 6,
+      "seal": "50%",
+      "img": "6.png",
+      "rating":5
+    },
+    {
+      "id": 11,
+      "title": "DNK Yellow Shoes",
+      "cat_prefix": "accesories",
+      "price": "EGP 120",
+      "pris": "EGP 150",
+      "max": 7,
+      "img": "10.png",
+      "rating":4
+    }
+  ],
+  "items": [
+    {
+      "id": 11,
+      "title": "DNK Yellow Shoes",
+      "gender": "Men",
+      "price": "EGP 120",
+      "seal": "EGY 150",
+      "img": "10.png"
+    }
+  ],
+  "types": [
+    {
+      "title": "MEN",
+      "img": "man.jpg",
+      "id": 1,
+      "prefix": "men"
+    },
+    {
+      "title": "WOMEN",
+      "img": "woman.jpg",
+      "id": 2,
+      "prefix": "women"
+    },
+    {
+      "title": "BABY",
+      "img": "baby.jpg",
+      "id": 3,
+      "prefix": "baby"
+    },
+    {
+      "title": "KIDS",
+      "img": "kids.jpg",
+      "id": 11,
+      "prefix": "kids"
+    },
+    {
+      "title": "SPORTS",
+      "img": "sports.jpg",
+      "id": 133,
+      "prefix": "sport"
+    },
+    {
+      "title": "Accesories",
+      "img": "accesories.jpg",
+      "id": 13,
+      "prefix": "accesories"
+    }
+  ]
+}
